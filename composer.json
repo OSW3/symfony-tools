@@ -20,8 +20,5 @@
 		"osw3/symfony-pagination":"*",
 		"osw3/symfony-search":"*",
 		"osw3/symfony-ux":"*"
-    },
-    "replace": {
-        "original/library":"^0.0"
     }
 }
