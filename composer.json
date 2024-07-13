@@ -1,6 +1,6 @@
 {
     "name": "osw3/symfony-tools",
-    "description": "Identity & Access Manager for Symfony",
+    "description": "OSW3 tools for Symfony",
 	"type": "symfony-bundle",
 	"authors": [
 		{
