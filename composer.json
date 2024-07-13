@@ -12,6 +12,8 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
     "require": {
-		"osw3/symfony-breadcrumb":"*"
+    },
+    "replace": {
+        "original/library":"^0.0"
     }
 }
