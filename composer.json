@@ -12,5 +12,6 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
     "require": {
+		"osw3/symfony-breadcrumb":"*"
     }
 }
