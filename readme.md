@@ -12,4 +12,11 @@ composer require osw3/symfony-tools
 
 ## Libraries and packages installed by this bundle
 
-- osw3/symfony-ux
+- [osw3/symfony-breadcrumb](https://github.com/OSW3/symfony-breadcrumb) Add breadcrumbs to your app pages.
+- [osw3/symfony-comments](https://github.com/OSW3/symfony-comments) Add comments to your app pages.
+- [osw3/symfony-iam](https://github.com/OSW3/symfony-iam) Manage security and access to your app.
+- [osw3/symfony-manager](https://github.com/OSW3/symfony-manager) Add a manager dashboard to your app.
+- [osw3/symfony-media](https://github.com/OSW3/symfony-media) Manage media of your app.
+- [osw3/symfony-pagination](https://github.com/OSW3/symfony-pagination) Add pagination to your app pages.
+- [osw3/symfony-search](https://github.com/OSW3/symfony-search) Add search to your app pages.
+- [osw3/symfony-ux](https://github.com/OSW3/symfony-ux) UI & UX Components for Twig and Symfony.
