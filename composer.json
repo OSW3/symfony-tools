@@ -12,6 +12,14 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
     "require": {
+		"osw3/symfony-breadcrumb":"*",
+		"osw3/symfony-comments":"*",
+		"osw3/symfony-iam":"*",
+		"osw3/symfony-manager":"*",
+		"osw3/symfony-media":"*",
+		"osw3/symfony-pagination":"*",
+		"osw3/symfony-search":"*",
+		"osw3/symfony-ux":"*"
     },
     "replace": {
         "original/library":"^0.0"
