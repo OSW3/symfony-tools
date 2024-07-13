@@ -12,6 +12,7 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
     "require": {
+        "devbraincode/devbrain-ui":"*"
     },
     "replace": {
         "original/library":"^0.0"
