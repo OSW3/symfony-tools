@@ -1,0 +1,19 @@
+{
+    "name": "osw3/symfony-tools",
+    "description": "Identity & Access Manager for Symfony",
+	"type": "symfony-bundle",
+	"authors": [
+		{
+			"name": "Project Contributors",
+			"homepage": "https://github.com/OSW3/symfony-tools/graphs/contributors"
+		}
+	],
+	"license": "proprietary",
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+    "require": {
+    },
+    "replace": {
+        "original/library":"^0.0"
+    }
+}
