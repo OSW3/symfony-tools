@@ -12,6 +12,12 @@ composer require osw3/symfony-tools
 
 ## Libraries and packages installed by this bundle
 
+### PHP libraries
+
+- [osw3/php-url-manager](https://github.com/osw3/php-url-manager) Provides an URL tools.
+
+### Symfony bundles
+
 - [osw3/symfony-breadcrumb](https://github.com/osw3/symfony-breadcrumb) Add breadcrumbs to your app pages.
 - [osw3/symfony-comments](https://github.com/osw3/symfony-comments) Add comments to your app pages.
 - [osw3/symfony-iam](https://github.com/osw3/symfony-iam) Manage security and access to your app.
