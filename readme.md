@@ -14,6 +14,7 @@ composer require osw3/symfony-tools
 
 ### PHP libraries
 
+- [osw3/php-cloud-manager](https://github.com/osw3/php-cloud-manager) Provides an FTP & Clouds tools.
 - [osw3/php-url-manager](https://github.com/osw3/php-url-manager) Provides an URL tools.
 
 ### Symfony bundles
