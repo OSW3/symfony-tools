@@ -12,6 +12,7 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
     "require": {
+		"osw3/php-cloud-manager":"*",
 		"osw3/php-url-manager":"*",
 		"osw3/symfony-breadcrumb":"*",
 		"osw3/symfony-comments":"*",
