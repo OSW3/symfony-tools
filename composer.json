@@ -21,6 +21,8 @@
 		"osw3/symfony-media":"*",
 		"osw3/symfony-pagination":"*",
 		"osw3/symfony-search":"*",
+		"osw3/symfony-seo":"*",
+		"osw3/symfony-sitemap":"*",
 		"osw3/symfony-ux":"*"
     },
     "replace": {
